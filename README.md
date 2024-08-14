@@ -16,8 +16,6 @@
 
 <h2 align="left">I code with</h2>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
@@ -34,11 +32,23 @@
 
 <h2 align="left">IDEs/Editors</h2>
 
-
 <div align="left" id="IDEs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="visual studio code logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
 </div>
+
+<h2 align="left">Contact</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/andré-santos-3a6379235/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+  </a>
+  <img width="12" />
+  <a href="mailto:andreew.0003@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail logo" />
+  </a>
+</div>
+
 
 ###
