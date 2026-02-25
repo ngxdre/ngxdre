@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My name is Andre and I'm an IT Student, from Senac</p>
+<p align="left">Formado em Análise e Desenvolvimento de Sistemas, com experiência na área de Dados e desenvolvimento backend. Atuei com ferramentas como Control-M, Python, Spark e Databricks, trabalhando com processamento, manipulação e orquestração de dados.
+
+Desenvolvi aplicações utilizando Java, Spring Boot e MySQL, com experiência na construção de APIs REST, modelagem de banco de dados e implementação de sistemas financeiros e soluções de automação empresarial. Tenho interesse em Engenharia de Dados e desenvolvimento de software, buscando sempre criar soluções escaláveis, eficientes e alinhadas às boas práticas.</p>
 
 ###
 
