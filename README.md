@@ -2,9 +2,27 @@
 
 ###
 
-<p align="left">Formado em Análise e Desenvolvimento de Sistemas, com experiência na área de Dados e desenvolvimento backend. Atuei com ferramentas como Control-M, Python, Spark e Databricks, trabalhando com processamento, manipulação e orquestração de dados.
+<details>
+  <summary>🇧🇷 Português</summary>
+  
+  <p align="left">Formado em Análise e Desenvolvimento de Sistemas, com experiência na área de Dados e desenvolvimento backend. Atuei com ferramentas como Control-M, Python, Spark e Databricks, trabalhando com processamento, manipulação e orquestração de dados.
+  
+  Desenvolvi aplicações utilizando Java, Spring Boot e MySQL, com experiência na construção de APIs REST, modelagem de banco de dados e implementação de sistemas financeiros e soluções de automação empresarial. Tenho interesse em Engenharia de Dados e desenvolvimento de software, buscando      sempre criar soluções escaláveis, eficientes e alinhadas às boas práticas.</p>
 
-Desenvolvi aplicações utilizando Java, Spring Boot e MySQL, com experiência na construção de APIs REST, modelagem de banco de dados e implementação de sistemas financeiros e soluções de automação empresarial. Tenho interesse em Engenharia de Dados e desenvolvimento de software, buscando sempre criar soluções escaláveis, eficientes e alinhadas às boas práticas.</p>
+</details>
+
+<details>
+  <summary>🇺🇸 English</summary>
+  
+  <p align="left">Graduated in Systems Analysis and Development, with experience in Data and Backend Development. Worked with tools such as Control-M, Python, Spark, and Databricks, focusing on data processing, manipulation, and orchestration.
+
+  Developed applications using Java, Spring Boot, and MySQL, with experience in building REST APIs, database modeling, and implementing financial systems and business process automation solutions. Interested in Data Engineering and Software Development, consistently aiming to build           scalable, efficient, and best-practice-driven solutions.</p>
+  
+  </details>
+
+###
+
+
 
 ###
 
